@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rsi:home|Door43 (rsi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rsi|d43-rsi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rsi/archive/master.zip|d43-rsi.zip]]
+
+**Recent Changes**
+{{changes>ns = rsi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rsi|Ethnologue data]]
+
